@@ -9,7 +9,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joao-Pedro-AlmeidaG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
- 
+###
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joao-Pedro-AlmeidaG/Joao-Pedro-AlmeidaG/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joao-Pedro-AlmeidaG/Joao-Pedro-AlmeidaG/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Joao-Pedro-AlmeidaG/Joao-Pedro-AlmeidaG/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <div> 
   <a href="https://www.instagram.com/_jaoo_pedrow/#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joao.pedro1441212@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

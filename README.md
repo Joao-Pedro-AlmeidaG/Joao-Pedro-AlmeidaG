@@ -17,8 +17,9 @@
 </picture>
 
 ###
+<img src="https://raw.githubusercontent.com/Joao-Pedro-AlmeidaG/Joao-Pedro-AlmeidaG/output/snake.svg" alt="Snake animation" />
 
-  ##
+###
  
 <div> 
   <a href="https://www.instagram.com/_jaoo_pedrow/#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

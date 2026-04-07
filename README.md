@@ -7,6 +7,7 @@
 • 👨‍💻 Estudante  de Sistemas de Informação na Unifacisa  
 • 📚 Atualmente no Segundo Periodo buscando se aperfeiçoar cada vez mais! 
 
+##
 
 ## 🔨 Habilidades
 
@@ -17,6 +18,13 @@
   <img align="center" alt=java src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="springboot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+###
+
+###
+<div style="display: inline_block">
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ###
